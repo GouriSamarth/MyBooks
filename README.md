@@ -1,4 +1,3 @@
-
 App Features:
 Authentication: Users can register and log in using their email and password via Firebase Authentication.
 
