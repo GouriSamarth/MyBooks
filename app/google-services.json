@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163686019213",
+    "project_id": "bookmy-fba6d",
+    "storage_bucket": "bookmy-fba6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163686019213:android:078abbe99a0a9fcbcd32c4",
+        "android_client_info": {
+          "package_name": "com.example.mybookss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0JrYPWiCifYCENyNXXNn0oB_FOybMXo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
